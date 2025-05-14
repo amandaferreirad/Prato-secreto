@@ -1,6 +1,8 @@
 
 import random
+
 prato_secreto=["Pizza","Lasanha","Fricassê","Carbonara","Sashimi","Kimchi","Mochi"]
+
 prato = random.choice(prato_secreto).lower() #converte para minusculo
  
 tentativa = 5
